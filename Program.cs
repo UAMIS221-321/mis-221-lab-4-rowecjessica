@@ -60,10 +60,6 @@ static int GetNumber2(){
     return number;
 }
 
-static void ExitProgram(){
-
-}
-
 
 static void DisplayInvalid(){
     Console.Clear();
